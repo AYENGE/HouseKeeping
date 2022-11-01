@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.2092
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseKeeping", "HouseKeeping\HouseKeeping.csproj", "{0A810207-0174-4737-99C0-EE7C8D99577F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOH.BatchJobs.HouseKeeping", "HouseKeeping\MOH.BatchJobs.HouseKeeping.csproj", "{0A810207-0174-4737-99C0-EE7C8D99577F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

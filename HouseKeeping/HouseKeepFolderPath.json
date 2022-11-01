@@ -1,0 +1,124 @@
+[
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\ExportDeltaFiles",
+        "enable": true,
+        "subdir": true
+    },
+  {
+    "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\GetVaccinationStatus",
+    "enable": true,
+    "subdir": true
+  },
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\AutomateCaseLinkage",
+        "enable": true,
+        "subdir": false
+    }
+    ,
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\CaseLabResults",
+        "enable": true,
+        "subdir": false
+    },
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\InterfaceNotification",
+        "enable": true,
+        "subdir": false
+    },
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\SNHRW_PendingCaseCreation",
+        "enable": true,
+        "subdir": false
+    },
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\MOH.CMS.MergeICTTFilesDailyJobs",
+        "enable": true,
+        "subdir": false
+    },
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\ExportCases",
+        "enable": true,
+        "subdir": false
+    },
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\ExportFullCCSPFiles",
+        "enable": true,
+        "subdir": false
+    },
+
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\ImportTTContact",
+        "enable": true,
+        "subdir": false
+    },
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\OGPICTTs",
+        "enable": true,
+        "subdir": false
+    },
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\ImportSNQO",
+        "enable": true,
+        "subdir": false
+    },
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\ImportAM",
+        "enable": true,
+        "subdir": false
+    },
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\ImportNRDCase",
+        "enable": true,
+        "subdir": false
+    },
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\CaseDischargeStatus",
+        "enable": true,
+        "subdir": false
+    },
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\TTContactToZendesk.FailedToSends",
+        "enable": true,
+        "subdir": false
+    },
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\TTContactToZendesk.PendingConfirms",
+        "enable": true,
+        "subdir": false
+    },
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\ImportMatchUnMatchCases",
+        "enable": true,
+        "subdir": false
+    },
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\ImportMastercase",
+        "enable": true,
+        "subdir": false
+    },
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\ImportMasterFilesJob2",
+        "enable": true,
+        "subdir": false
+    },
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\ImportMasterFilesJob3",
+        "enable": true,
+        "subdir": false
+    },
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\ImportMasterFilesJob4",
+        "enable": true,
+        "subdir": false
+    },
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\ImportMasterFilesJob5",
+        "enable": true,
+        "subdir": false
+    },
+    {
+        "path": "D:\\OneDrive - NCS Pte Ltd\\SourceCode\\MOH.BatchJobs\\ZipLogs\\DailyLogArchive\\log -2022-Aug-11\\ImportMasterFilesJob6",
+        "enable": true,
+        "subdir": false
+    }
+]
