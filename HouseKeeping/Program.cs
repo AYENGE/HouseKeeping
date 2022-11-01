@@ -14,7 +14,7 @@ namespace MOH.BatchJobs.HouseKeeping
             log4net.Config.XmlConfigurator.Configure();
             try
             {
-                _log.Info("MOH.BatchJobs.HouseKeeping START");
+                _log.Info("MOH.BatchJobs.HouseKeeping START1");
                 HouseKeep houseKeep = new HouseKeep();
                 houseKeep.HouseKeeping();
                 //Send email
